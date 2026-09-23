@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "home",
+    "route": "/",
+    "title": "Home___33_Black",
+    "htmlClass": "svgfilters svgclippaths svgforeignobject smil inlinesvg svgasimg",
+    "bodyClass": "home wp-singular page-template-default page page-id-3667 wp-theme-sonaar tribe-js metaslider-plugin lang-en-US layout-wide sr-over-content fixed_header _karbones_elementor elementor-default elementor-kit-3733 elementor-page elementor-page-3667 no-pjax e--ua-isTouchDevice e--ua-blink e--ua-chrome e--ua-webkit",
+    "bodyId": "",
+    "bodyStyle": ""
+  },
+  {
+    "slug": "about-us",
+    "route": "/about-us/",
+    "title": "About___33_Black",
+    "htmlClass": "svgfilters svgclippaths svgforeignobject smil inlinesvg svgasimg",
+    "bodyClass": "wp-singular page-template-default page page-id-1767 wp-theme-sonaar tribe-js metaslider-plugin lang-en-US layout-wide fixed_header _karbones_elementor elementor-default elementor-kit-3733 elementor-page elementor-page-1767 no-pjax e--ua-isTouchDevice e--ua-blink e--ua-chrome e--ua-webkit",
+    "bodyId": "",
+    "bodyStyle": ""
+  },
+  {
+    "slug": "become-a-member",
+    "route": "/become-a-member/",
+    "title": "Become_a_member___33_Black",
+    "htmlClass": "svgfilters svgclippaths svgforeignobject smil inlinesvg svgasimg",
+    "bodyClass": "wp-singular page-template-default page page-id-9799 wp-theme-sonaar tribe-js metaslider-plugin lang-en-US layout-wide fixed_header _karbones_elementor elementor-default elementor-kit-3733 elementor-page elementor-page-9799 no-pjax e--ua-isTouchDevice e--ua-blink e--ua-chrome e--ua-webkit",
+    "bodyId": "",
+    "bodyStyle": ""
+  },
+  {
+    "slug": "listen",
+    "route": "/listen/",
+    "title": "Listen___33_Black",
+    "htmlClass": "svgfilters svgclippaths svgforeignobject smil inlinesvg svgasimg",
+    "bodyClass": "wp-singular page-template-default page page-id-2663 wp-theme-sonaar tribe-js metaslider-plugin lang-en-US layout-wide fixed_header _karbones_elementor elementor-default elementor-kit-3733 elementor-page elementor-page-2663 no-pjax e--ua-isTouchDevice e--ua-blink e--ua-chrome e--ua-webkit",
+    "bodyId": "",
+    "bodyStyle": ""
+  },
+  {
+    "slug": "events",
+    "route": "/events/",
+    "title": "Upcoming_Events_____33_Black",
+    "htmlClass": "svgfilters svgclippaths svgforeignobject smil inlinesvg svgasimg",
+    "bodyClass": "archive post-type-archive post-type-archive-tribe_events wp-theme-sonaar tribe-events-page-template tribe-js tribe-filter-live metaslider-plugin lang-en-US layout-wide fixed_header _karbones_elementor elementor-default elementor-kit-3733 no-pjax e--ua-isTouchDevice e--ua-blink e--ua-chrome e--ua-webkit",
+    "bodyId": "",
+    "bodyStyle": ""
+  },
+  {
+    "slug": "lyrics",
+    "route": "/lyrics/",
+    "title": "LYRICS___33_Black",
+    "htmlClass": "svgfilters svgclippaths svgforeignobject smil inlinesvg svgasimg",
+    "bodyClass": "wp-singular page-template-default page page-id-7872 wp-theme-sonaar tribe-js metaslider-plugin lang-en-US layout-wide fixed_header _karbones_elementor elementor-default elementor-kit-3733 elementor-page elementor-page-7872 no-pjax e--ua-isTouchDevice e--ua-blink e--ua-chrome e--ua-webkit",
+    "bodyId": "",
+    "bodyStyle": ""
+  },
+  {
+    "slug": "contact",
+    "route": "/contact/",
+    "title": "Contact___33_Black",
+    "htmlClass": "svgfilters svgclippaths svgforeignobject smil inlinesvg svgasimg",
+    "bodyClass": "wp-singular page-template-default page page-id-29 wp-theme-sonaar tribe-js metaslider-plugin lang-en-US layout-wide fixed_header _karbones_elementor elementor-default elementor-kit-3733 elementor-page elementor-page-29 no-pjax e--ua-isTouchDevice e--ua-blink e--ua-chrome e--ua-webkit",
+    "bodyId": "",
+    "bodyStyle": ""
+  }
+]

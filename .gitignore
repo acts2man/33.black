@@ -1,0 +1,15 @@
+# dependencies / build
+node_modules
+dist
+
+# original SingleFile captures (source material, not shipped)
+_source
+*.zip
+
+# QA + scratch
+qa
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
